@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /docs/
-
-Sitemap: https://vektor33.github.io/vektorhim/sitemap.xml
